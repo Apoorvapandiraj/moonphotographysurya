@@ -1,0 +1,25 @@
+# Root .gitignore for Moon Photography
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+
+# Vite
+.vite/
+
+# Server env
+server/.env
+
+# System
+.DS_Store
+thumbs.db
+
+# Editor
+.vscode/
+.idea/
