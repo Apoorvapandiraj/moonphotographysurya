@@ -1,30 +1,31 @@
-# Moon Photography
+🌙 Moon Photography
+Freelance Full Stack Developer & Digital Marketing Consultant
 
-This repository contains the Moon Photography web application (frontend + backend).
+📍 Locations: Kerala | Tamil Nadu | Karnataka
 
-Structure:
+🚀 Project Highlights
 
-- client/ — React + Vite frontend
-- server/ — Express backend
+* 🌐 Designed and developed a complete professional website for Moon Photography.
+* ⚛️ Built a responsive and modern frontend using React.js and Vite.
+* 🛠️ Developed backend services using Node.js and Express.js.
+* 🗄️ Managed data storage and operations using MongoDB.
+* 🔐 Implemented security best practices including API protection, input validation, secure environment variables, and authentication mechanisms.
+* 📱 Optimized the website for mobile, tablet, and desktop devices.
+* 🔍 Performed SEO optimization to improve search engine visibility and organic traffic.
+* 📈 Planned and executed digital marketing campaigns to increase customer engagement.
+* 🎯 Managed Meta Ads (Facebook & Instagram) campaigns for lead generation and brand awareness.
+* 📊 Utilized analytics and performance tracking to improve campaign effectiveness.
+* 🤝 Collaborated directly with business stakeholders to deliver customized digital solutions.
+* 💰 Contributed to business growth through improved online presence, increased website traffic, and enhanced customer acquisition.
 
-Quick start (development):
+🛠️ Technologies Used
+⚛️ React.js | ⚡ Vite | 🟨 JavaScript | 🌐 HTML5 | 🎨 CSS3 | 🅱️ Bootstrap | 💨 Tailwind CSS | 🟢 Node.js | 🚂 Express.js | 🍃 MongoDB | 🔗 REST APIs | 🐙 Git & GitHub
 
-1. Start backend (runs on port 5001):
+📣 Marketing & SEO
+🔍 SEO Optimization | 📱 Social Media Marketing | 🎯 Meta Ads | 📊 Google Analytics | 📈 Digital Marketing Strategy
 
-```bash
-cd server
-npm install
-npm run dev
-```
-
-2. Start frontend (Vite, runs on port 5173):
-
-```bash
-cd client
-npm install
-npm run dev
-```
-
-Notes:
-- Add a remote and push if you want to create a remote repository (GitHub/GitLab).
-- Environment variables for server are in `server/.env` (PORT=5001 in the repo). Do not commit secrets.
+🏆 Impact
+✔️ Improved online visibility
+✔️ Increased customer engagement
+✔️ Enhanced lead generation
+✔️ Supported business growth and prof
